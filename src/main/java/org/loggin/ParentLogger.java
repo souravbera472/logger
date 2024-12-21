@@ -7,10 +7,10 @@ import org.apache.logging.log4j.Logger;
 public class ParentLogger implements MyLogger {
     private static final Logger logger = LogManager.getLogger(ParentLogger.class.getName());
 
-    static {
+    /*static {
         System.setProperty("log4j.configurationFile", "log4j2-A.xml");
         System.setProperty("Log4jContextSelector", "org.apache.logging.log4j.core.async.AsyncLoggerContextSelector");
-    }
+    }*/
 
     private int line = 0;
     @Override

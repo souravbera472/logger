@@ -1,0 +1,4 @@
+2024-12-21 23:49:06.768 INFO  org.sb.TestOtherLogFile.main - (13) This is from TestOtherLogFile class
+2024-12-21 23:49:06.769 INFO  org.sb.Main.solve - (17) This is solve method
+2024-12-21 23:55:56.610 INFO  org.sb.TestOtherLogFile.main - (11) This is from TestOtherLogFile class
+2024-12-21 23:55:56.612 INFO  org.sb.Main.solve - (17) This is solve method
